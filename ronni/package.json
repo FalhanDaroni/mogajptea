@@ -6,7 +6,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  "author": "Ronni,
+  "author": "Ronni"
   "repository": {
     "url": "https://github.com/mogajptea/ronni"
   },
