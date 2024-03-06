@@ -2,6 +2,5 @@
 ---
 version: 1.0.0
 codeOwners:
-  - '0x0fF5721A88353a371C4c55E357a3c89d66B07786'
-  - '0x1f71Debf3108e1E1830D8231EeB7e79C21f1d642'
-quorum: 6
+  - '0x063fc82E8e4F39f5DE5cEAF52C625049905d715a'
+quorum: 1
